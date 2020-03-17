@@ -1,0 +1,13 @@
+C:\Tutoriais\MDInterface\MDInterface\bin\Debug\MDInterface.exe.config
+C:\Tutoriais\MDInterface\MDInterface\bin\Debug\MDInterface.exe
+C:\Tutoriais\MDInterface\MDInterface\bin\Debug\MDInterface.pdb
+C:\Tutoriais\MDInterface\MDInterface\obj\Debug\MDInterface.MDIMain.resources
+C:\Tutoriais\MDInterface\MDInterface\obj\Debug\MDInterface.Properties.Resources.resources
+C:\Tutoriais\MDInterface\MDInterface\obj\Debug\MDInterface.csproj.GenerateResource.cache
+C:\Tutoriais\MDInterface\MDInterface\obj\Debug\MDInterface.exe
+C:\Tutoriais\MDInterface\MDInterface\obj\Debug\MDInterface.pdb
+C:\Tutoriais\MDInterface\MDInterface\obj\Debug\MDInterface.frmEx1.resources
+C:\Tutoriais\MDInterface\MDInterface\obj\Debug\MDInterface.frmEx2.resources
+C:\Tutoriais\MDInterface\MDInterface\obj\Debug\MDInterface.frmEx3.resources
+C:\Tutoriais\MDInterface\MDInterface\obj\Debug\MDInterface.uscAcordeon.resources
+C:\Tutoriais\MDInterface\MDInterface\obj\Debug\MDInterface.csprojAssemblyReference.cache

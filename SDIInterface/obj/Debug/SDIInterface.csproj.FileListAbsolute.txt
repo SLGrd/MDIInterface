@@ -1,0 +1,12 @@
+C:\Tutoriais\MDInterface\SDIInterface\bin\Debug\SDIInterface.exe.config
+C:\Tutoriais\MDInterface\SDIInterface\bin\Debug\SDIInterface.exe
+C:\Tutoriais\MDInterface\SDIInterface\bin\Debug\SDIInterface.pdb
+C:\Tutoriais\MDInterface\SDIInterface\obj\Debug\SDIInterface.SDIMain.resources
+C:\Tutoriais\MDInterface\SDIInterface\obj\Debug\SDIInterface.Properties.Resources.resources
+C:\Tutoriais\MDInterface\SDIInterface\obj\Debug\SDIInterface.csproj.GenerateResource.cache
+C:\Tutoriais\MDInterface\SDIInterface\obj\Debug\SDIInterface.exe
+C:\Tutoriais\MDInterface\SDIInterface\obj\Debug\SDIInterface.pdb
+C:\Tutoriais\MDInterface\SDIInterface\obj\Debug\SDIInterface.csprojAssemblyReference.cache
+C:\Tutoriais\MDInterface\SDIInterface\obj\Debug\SDIInterface.Form1.resources
+C:\Tutoriais\MDInterface\SDIInterface\obj\Debug\SDIInterface.Form2.resources
+C:\Tutoriais\MDInterface\SDIInterface\obj\Debug\SDIInterface.Form3.resources
